@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter/IDE files
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# Data files (optional)
+data/
+*.csv
+node_modules/
+package-lock.json
+package.json
